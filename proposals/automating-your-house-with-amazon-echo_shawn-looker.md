@@ -1,7 +1,9 @@
 # Automating Your House with Amazon Echo
 
 Speaker: Shawn Looker
+
 Length: 30-45 minutes
+
 Available: Any
 
 ## Description
