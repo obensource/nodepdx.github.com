@@ -6,7 +6,7 @@
 body {
   width: 100%;
   height: 100%;
-  font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
   color: #fff;
   background-color: #000;
 }
@@ -155,6 +155,21 @@ a:focus {
   -o-background-size: cover;
 }
 
+.intro-geek-train {
+  display: table;
+  width: 100%;
+  height: auto;
+  padding: 100px 0;
+  text-align: center;
+  color: #fff;
+  background: url(../img/nodepdx-panorama-geek-train.jpg) no-repeat bottom center scroll;
+  background-color: #000;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
 .intro .intro-body {
   display: table-cell;
   vertical-align: middle;
@@ -268,6 +283,10 @@ a:focus {
 
 .content-section {
   padding-top: 100px;
+}
+
+.content-section-minimal-top {
+  padding-top: 25px;
 }
 
 .join-section {
