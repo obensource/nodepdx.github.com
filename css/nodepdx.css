@@ -155,7 +155,7 @@ a:focus {
   -o-background-size: cover;
 }
 
-.intro-geek-train {
+.intro-lagniappe {
   display: table;
   width: 100%;
   height: auto;
@@ -286,7 +286,7 @@ a:focus {
 }
 
 .content-section-minimal-top {
-  padding-top: 25px;
+  padding-top: 100px;
 }
 
 .join-section {
